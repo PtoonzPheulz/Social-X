@@ -3,15 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-// import {
-//   Navbar,
-//   Header,
-//   Features,
-//   Download,
-//   Subscribe,
-//   Faq,
-//   Footer,
-// } from './Components';
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
